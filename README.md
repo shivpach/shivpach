@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivani Pachghare</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist/Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://datasciencedistrict.nl/wp-content/uploads/2021/08/vector-female-developer.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivpach&label=Profile%20views&color=0e75b6&style=flat" alt="shivpach" /> </p>
 
-- 💬 Ask me about **Data Science, Data analyst**
+- 💬 Ask me about **Data Science, Data engineer**
 
 - 📫 How to reach me **shivanipachghare@gmail.com**
 
